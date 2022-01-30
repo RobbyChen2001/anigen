@@ -1,5 +1,7 @@
 # Anigen
 
+Group members: Thomas, Valerie, Benson, Evelyn, Luke, Robby
+
 To try out our code, just type `python stylegan_lightning.py`
 
 Make sure you have CUDA enabled for your computer.
